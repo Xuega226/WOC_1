@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\smartptr.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\smartptr.dir/objects.a @CMakeFiles\smartptr.dir\objects1.rsp
+C:\msys64\mingw64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\smartptr.dir/objects.a -Wl,--no-whole-archive -o smartptr.exe -Wl,--out-implib,libsmartptr.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\smartptr.dir\linkLibs.rsp

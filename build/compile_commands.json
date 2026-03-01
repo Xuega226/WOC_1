@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/WOC_1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\clang++.exe   -g -o CMakeFiles\\smartptr.dir\\test.cpp.obj -c D:\\WOC_1\\test.cpp",
+  "file": "D:/WOC_1/test.cpp",
+  "output": "CMakeFiles/smartptr.dir/test.cpp.obj"
+}
+]
